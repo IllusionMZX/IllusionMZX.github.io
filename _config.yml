@@ -22,7 +22,7 @@ repository               : "IllusionMZX/IllusionMZX.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zixiang Miao"
+  name             : "Zixiang Miao (缪子翔)"
   pronouns         : "he/his"  
   bio              : "Stay Hungry Stay Foolish"
   location         : "Fuzhou, China"
@@ -243,41 +243,41 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
