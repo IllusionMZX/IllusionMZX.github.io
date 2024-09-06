@@ -1,7 +1,7 @@
 ---
 title: 'FM接收机及正交鉴频器设计'
 date: 2024-07-18
-permalink: /posts/
+permalink: /posts/FM_receiver
 tags:
   - 高频电子线路
 ---
@@ -126,7 +126,16 @@ $$
 
 确定能确保移相网络为线性相移的回路Q值。
 
-线性相移要求：$$| \Delta \varphi | < \frac{\pi}{6}$$，即$$\xi < t g \frac{\pi}{6} = 0 . 5 7 7$$。
+线性相移要求：
+
+$$
+| \Delta \varphi | < \frac{\pi}{6}
+$$
+
+即
+$$
+\xi < t g \frac{\pi}{6} = 0 . 5 7 7
+$$
 
 于是，确保不失真解调的Q值为：
 
