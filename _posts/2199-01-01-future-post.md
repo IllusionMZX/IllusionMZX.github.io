@@ -1,7 +1,7 @@
 ---
 title: 'FM接收机及正交鉴频器设计'
 date: 2024-07-18
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts
 tags:
   - 高频电子线路
 ---
