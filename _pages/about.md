@@ -11,5 +11,5 @@ I'm a third year undergraduate student from [Northeastern University](https://ww
 
 宜未雨而绸缪，毋临渴而掘井
 ======
-[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://github.com/IllusionMZX/IllusionMZX.github.io/blob/master/images/Wechat.png)
+[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)
 
