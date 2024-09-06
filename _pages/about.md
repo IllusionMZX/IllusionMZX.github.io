@@ -13,3 +13,4 @@ I'm a third year undergraduate student from [Northeastern University](https://ww
 ======
 [`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)
 
+### [Personal notes website](https://protective-calendula-c55.notion.site/Stay-Hungry-Stay-Foolish-64dadb006e534be6895b6fedc62f351c?pvs=4)
