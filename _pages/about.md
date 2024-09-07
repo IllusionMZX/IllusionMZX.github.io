@@ -11,6 +11,6 @@ I'm a third year undergraduate student from [Northeastern University](https://ww
 
 宜未雨而绸缪，毋临渴而掘井
 ======
-[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)
+[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)/[`CSDN`](https://blog.csdn.net/weixin_73271965?type=collect)
 
 ### [Personal notes website](https://protective-calendula-c55.notion.site/Stay-Hungry-Stay-Foolish-64dadb006e534be6895b6fedc62f351c?pvs=4)
