@@ -11,6 +11,7 @@ redirect_from:
 
 I'm **Miao Zixiang (缪子翔)**, an undergraduate student passionate about **Embedded Systems**, **Edge AI**, and **Deep Learning**. Currently pursuing a Bachelor's degree in Electronic and Information.
 
+[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)/[`CSDN`](https://blog.csdn.net/weixin_73271965?type=collect)
 
 ## 🛠️ Tech Stack
 
@@ -53,6 +54,3 @@ I'm **Miao Zixiang (缪子翔)**, an undergraduate student passionate about **Em
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IllusionMZX&theme=default" alt="GitHub Streak" />
 </div>
-
-======
-[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)/[`CSDN`](https://blog.csdn.net/weixin_73271965?type=collect)
