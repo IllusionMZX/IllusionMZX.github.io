@@ -11,7 +11,7 @@ redirect_from:
 
 I'm **Miao Zixiang (缪子翔)**, an undergraduate student passionate about **Embedded Systems**, **Edge AI**, and **Deep Learning**. Currently pursuing a Bachelor's degree in Electronic and Information.
 
-[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)/[`CSDN`](https://blog.csdn.net/weixin_73271965?type=collect)
+[`Github`](https://github.com/IllusionMZX)/[`Wechat`](https://illusionmzx.github.io/images/Wechat.png)/[`CSDN`](https://blog.csdn.net/weixin_73271965)
 
 ## 🛠️ Tech Stack
 
